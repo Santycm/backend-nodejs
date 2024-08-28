@@ -6,5 +6,5 @@ export const getPing = async (req, res) => {
 };
 
 export const testCase = (req, res)=>{
-  res.json({"message":"probanding"})
+  res.json({"message":"JUANDA LA CHUPA"})
 }

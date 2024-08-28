@@ -5,6 +5,6 @@ const router = Router();
 
 router.get("/ping", getPing);
 
-router.get("/api/prueba", testCase)
+router.get("/prueba", testCase)
 
 export default router
