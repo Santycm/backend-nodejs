@@ -6,7 +6,7 @@ import cors from "cors";
 const app = express();
 
 const corsOptions = {
-  origin: "https://naturalfr.netlify.app/",
+  origin: "https://naturalfr.netlify.app",
   optionsSuccessStatus: 200,
 };
 
